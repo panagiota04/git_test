@@ -1,0 +1,19 @@
+body {
+    color: blueviolet;
+    font-family: arial;
+    margin: 10px;
+}
+
+div {
+    background-color: aquamarine;
+    border: solid 10px peachpuff;
+}
+.second-div {
+    background-color: pink;
+}
+#second-li{
+    font-size: 30px;
+}
+img {
+    width: 300px;
+    border-radius: 50px;}
