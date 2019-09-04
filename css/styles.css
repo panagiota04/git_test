@@ -4,6 +4,11 @@ body {
     margin: 10px;
 }
 
+div {
+    background-color: aquamarine;
+    border: solid 10px peachpuff;
+}
+
 #second-li{
     font-size: 30px;
 }
